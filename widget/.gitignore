@@ -1,0 +1,16 @@
+*.*
+
+!css/
+!error/
+!html/
+!icon/
+!image/
+!launch/
+!res/
+!script
+!wgt
+
+!config.xml
+!index.html
+
+!.gitignore
